@@ -5,3 +5,5 @@ const appName = document.getElementsByClassName("app-name")
 if (appName) {
   appName.innerHTML = "r2frida labs"
 }
+
+console.log('page updated')
